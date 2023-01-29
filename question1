@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>question1</head>
+  <h1>States</h1>
+  <ul>
+    <li>Karnataka
+      <ol>
+        <li>Bengaluru</li>
+        <li>Mangaluru</li>
+        <li>Bidar</li>
+        <li>Shimoga</li>
+        <li>Hospet</li>
+      </ol></li>
+      <li>Andhra Pradesh
+        <ol>
+          <li>Nellor</li>
+          <li>Chittor</li>
+          <li>Vijayawada</li>
+          <li>Kurnool</li>
+          <li>Gunture</li>
+        </ol></li>
+        <li>Tamilnadu
+          <ol>
+            <li>Salem</li>
+            <li>Coimbatore</li>
+            <li>Erode</li>
+            <li>Vellore</li>
+            <li>Chennai</li>
+          </ol></li>
+          <li>Kerala
+            <ol>
+              <li>Thrissur</li>
+              <li>Kannur</li>
+              <li>Koollam</li>
+              <li>Kochi</li>
+              <li>Kottyayam</li>
+            </ol></li>
+            <li>Himachal Pradesh
+              <ol>
+                <li>Kullu</li>
+                <li>Mandi</li>
+                <li>Una</li>
+                <li>Shimla</li>
+                <li>Chamba</li>
+              </ol></li>
+  </ul>
+
+
+<body>
+  
+</body>
+</html>
