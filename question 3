@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Document</title>
+  </head>
+  <u>
+    <h1>loreum ipsum</h1>
+    <h2><i>posted on 11th November 2022</i></h2>
+    <h3 text-align="center">nsequat</h3>
+
+    <p style = "text-align: center;">
+      
+      <b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. Donec
+      suscipit porta lacus eget convallis. Ut sapien nulla, fringilla eget felis
+      nec, viverra consequat felis. Sed finibus enim sit amet massa vulputate,
+      ac interdum nibh varius.
+    </p>
+    <h3 text-align="left"><u>what is Diam</u></h3>
+    <p style = "text-align: left;">
+      Fusce ut elementum nulla, eget mollis tellus. Vestibulum feugiat ex at est
+      convallis, ut efficitur enim mollis. Vestibulum elementum,<i>
+        nulla eget</i
+      >
+    </p>
+
+    <h3 text-align="right"><u>when to use Gravity</u></h3>
+    <p style = "text-align: right;">
+      ravida dictum, purus mi interdum felis, sed bibendum enim justo suscipit
+      quam. Sed sit amet eleifend justo, sed pharetra ante. Quisque sit amet
+      pharetra diam, at porttitor nulla. Donec faucibus nunc libero, non feugiat
+      mi egestas at. Donec mollis lacus et ipsum rhoncus, at vestibulum mauris
+      sodales.
+    </p>
+    <h3 text-align = "justify"> <u>how to twist</u></h3>
+
+    <p style = "text-align: justify;">
+      <u>Duis feugiat egestas facilisis</u>. Suspendisse potenti. Morbi id dui
+      tincidunt, congue ligula sit amet, mollis tellus. Nullam at mauris
+      egestas, viverra enim et, iaculis libero.
+    </p>
+    <h3><u>Turpis</h3></u>
+    <p>
+      Maecenas sit amet felis et nisl venenatis dignissim ac a libero. Phasellus
+      luctus ex diam, ut dignissim justo venenatis sed. Aenean diam ligula,
+      mollis tincidunt aliquam sit amet, iaculis et turpis. Mauris semper nisl
+      at sem sagittis sodales. Mauris dictum vitae felis eu laoreet. Nulla
+      dictum quis magna vitae gravida.
+    </p>
+    <h3><u>what is quaise?</u></h3>
+    <p>
+      Vivamus dapibus, elit et tincidunt semper, nisl sem dapibus ligula,
+      lacinia commodo dolor purus nec ante. Aenean dictum iaculis odio eget
+      facilisis. Nullam venenatis convallis ante, in pretium lacus. Quisque
+      sollicitudin dictum libero, in congue quam rhoncus ut. Cras cursus ipsum
+      bibendum turpis placerat efficitur. In eleifend urna quis ex consectetur
+      consectetur.
+    </p>
+  </body>
+</html>
